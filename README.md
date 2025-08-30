@@ -8,17 +8,19 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Heitor Antunes de Barcelos
+- Matricula: 848246
+- Proposta de projeto escolhida: Coleções e itens
+- Breve descrição sobre seu projeto: Site para coferir     notícias de jogos
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](<wireframe página inicial gameby.png>)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](<imagem página gameby teste 1.png>)
+
+![alt text](<imagem página gameby teste 2.png>)
